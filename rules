@@ -1,0 +1,10 @@
+* Define the "general rule" of CSS. 
+  - How to write valid CSS files following the general rule of CSS
+  
+ * How to incorporate CSS into an HTML file 
+ 
+ * Select elements by tag name, class and ID
+ 
+ * Style elements with basic properties like color and background 
+ 
+ * Use Chrome CSS inspector to debug HTML and CSS
