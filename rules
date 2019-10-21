@@ -1,10 +1,26 @@
 * Define the "general rule" of CSS. 
   - How to write valid CSS files following the general rule of CSS
   
+  selector{
+    property: value;
+    anotherProperty: value;
+}
+  
  * How to incorporate CSS into an HTML file 
+ use 
+ 
+ <link href="PlatinumEventsMain.css" rel="stylesheet" type="text/css">
  
  * Select elements by tag name, class and ID
  
  * Style elements with basic properties like color and background 
+ 
+ - colors : color names, hexadecimal
+ 
+ hexadecimal - 
+ # _ _ (first two how much red) _ _ (how much green) _ _  (how much blue)
+ 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+ 
+ RGB rgb(0-255, 0-255, 0-255)   red, gree, blue
  
  * Use Chrome CSS inspector to debug HTML and CSS
